@@ -1,5 +1,3 @@
-# Fraud-Analysis
-GitHub Repository Description / Commit Message
 💳 Credit Card Fraud Detection
 
 A machine learning project designed to detect fraudulent transactions using real-world credit card data.
